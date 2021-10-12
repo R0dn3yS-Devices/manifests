@@ -3,10 +3,10 @@
 
 	<remote name="gitlab" fetch="https://gitlab.com/" />
 
-    <project name="R0dn3yS-Devices/android_device_xiaomi_monet" path="device/xiaomi/monet" remote="github" revision="lineage-19" />
-    <project name="R0dn3yS-Devices/android_device_xiaomi_sm7250-common" path="device/xiaomi/sm7250-common" remote="github" revision="lineage-19" />
+    <project name="R0dn3yS-Devices/android_device_xiaomi_monet" path="device/xiaomi/monet" remote="github" revision="lineage-19.0" />
+    <project name="R0dn3yS-Devices/android_device_xiaomi_sm7250-common" path="device/xiaomi/sm7250-common" remote="github" revision="lineage-19.0" />
 
-    <project name="R0dn3yS-Devices/android_kernel_xiaomi_sm7250" path="kernel/xiaomi/sm7250" remote="github" revision="lineage-19" />
+    <project name="R0dn3yS-Devices/android_kernel_xiaomi_sm7250" path="kernel/xiaomi/sm7250" remote="github" revision="lineage-19.0" />
 
     <project name="xSylla/android-vendor-xiaomi-sm7250" path="vendor/xiaomi" remote="gitlab" revision="master" />
 
