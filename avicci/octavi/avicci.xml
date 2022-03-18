@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote name="gitlab" fetch="https://gitlab.com/" />
+
+	# Device Trees
+	<project name="dhanireddygovardhanreddy/device_oneplus_avicii" path="device/oneplus/avicci" remote="github" revision="octavi" />
+
+	# Kernel
+	<project name="dhanireddygovardhanreddy/kernel_oneplus_sm7250" path="device/oneplus/sm7250-common" remote="github" revision="eleven" />
+
+	# Vendor Blobs
+	<project name="dhanireddygovardhanreddy/vendor_oneplus_avicii" path="vendor/oneplus/avicii" remote="github" revision="twelve" />
+
+	# Vendor Firmware
+	<project name="dotos-devices/vendor_oneplus_firmware" path="vendor/oneplus/firmware" remote="gitlab" revision="dot11" />
+
+</manifest>
